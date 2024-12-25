@@ -1,3 +1,3 @@
 
-# Heading 1 (Largest) Global Income Inequlity Analysis
+# Global Income Inequlity Analysis
 
